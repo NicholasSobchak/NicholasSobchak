@@ -18,10 +18,8 @@
 </p>
 
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> Github Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /></h1>
+<h1 align="center"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f331.gif" width="40" /> Github Stats <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f331.gif" width="40" /></h1>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nicholassobchak&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nicholassobchak" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholassobchak&theme=dark" alt="nicholassobchak" /></p>
-
-
 
