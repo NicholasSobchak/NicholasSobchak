@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+I am a Computer Science major at University of Maryland Baltimore County determined to pursue ethical technology to make the world a better place.
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
