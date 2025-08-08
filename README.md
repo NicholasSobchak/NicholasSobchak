@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=10000&center=true&vCenter=true&color=FFFFFF&width=500&lines=Hello%2C+I'm+Nicholas+Sobchak"alt="Typing animation"/>
 </p>
 
-<h1 align="center"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f525.gif" width="40" /> What I do <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f525.gif" width="40" />
+<h1 align="center"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f331.gif" width="40" /> What I do <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f331.gif" width="40" />
 <h3 align="center">I am a Computer Science major at University of Maryland Baltimore County determined to pursue ethical technology to make the world a better place.</h3>
 
 
@@ -12,7 +12,7 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 
 
-<h1 align="right"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f331.gif" width="40" /> Statistics <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f331.gif" width="40" /></h1>
+<h1 align="right"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f525.gif" width="40" /> Statistics <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f525.gif" width="40" /></h1>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nicholassobchak&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nicholassobchak" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholassobchak&theme=dark" alt="nicholassobchak" /></p>
