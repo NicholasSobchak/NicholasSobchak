@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&color=FDF6E3&width=500&lines=Hello%2C+I'm+Nicholas+Sobchak" alt="Typing animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=10000&center=true&vCenter=true&color=FFFFFF&width=500&lines=Hello%2C+I'm+Nicholas+Sobchak"alt="Typing animation"/>
 </p>
 
 <h1 align="center"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f525.gif" width="40" /> What I do <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f525.gif" width="40" />
