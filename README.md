@@ -18,8 +18,8 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholassobchak&theme=dark" alt="nicholassobchak" /></p>
 
 
-<h1 align="right"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f91d.png" width="80" /> Let's Connect <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f91d.png" width="80" /> </h1>
-<p align="center">
+<h1 align="center"> <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f91d.png" width="80" /> Let's Connect <img src="https://github.com/NicholasSobchak/NicholasSobchak/blob/main/1f91d.png" width="80" /> </h1>
+<p align="left">
 <a href="https://linkedin.com/in/nicholas sobchak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas sobchak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nicholassobchak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nicholassobchak" height="30" width="40" /></a>
 </p>
