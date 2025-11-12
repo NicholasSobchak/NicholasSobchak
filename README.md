@@ -49,7 +49,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicholassobchak&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
+  <a href="https://leetcode.com/u/AqVhqVLkfw/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AqVhqVLkfw?theme=dark&font=Karma&ext=contest" alt="Nicholas Sobchak's LeetCode Stats" />
+  </a>
 </p>
+
+
 
 <!-- Let's Connect -->
 <h1 align="center">
