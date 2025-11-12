@@ -62,7 +62,7 @@
   <a href="https://linkedin.com/in/nicholassobchak" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
   </a>
-  <a href="https://www.leetcode.com/nicholassobchak" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
-  </a
+  <a href="https://leetcode.com/u/AqVhqVLkfw/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
+  </a>
 
