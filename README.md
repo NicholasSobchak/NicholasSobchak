@@ -49,11 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicholassobchak&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholassobchak&theme=dark" alt="GitHub Streak Stats" />
-  
-  [![NeetCode Banner](https://your-image-link.com/neetcode-banner.png)](https://neetcode.io/roadmap)
-
-
 </p>
 
 <!-- Let's Connect -->
