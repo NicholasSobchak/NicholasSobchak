@@ -14,6 +14,6 @@
 </h1>
 
 <h3 align="center">
-  I am a Computer Science major at the University of Maryland Baltimore County, determined to pursue ethical technology to make the world a better place.
+  I am a Computer Science major at the University of Maryland, Baltimore County, determined to pursue ethical technology to make the world a better place.
 </h3>
 
